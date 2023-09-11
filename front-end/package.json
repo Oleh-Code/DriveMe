@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-expo-app": "^2.0.3",
+    "expo": "^48.0.19"
+  }
+}
